@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💼 Abhijeet's Portfolio Website
+# 💼 Brian's Portfolio Website
 
 </div>
 
@@ -76,11 +76,11 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 ## 📸 Live Preview
 
-👉 [Live Demo](https://abhijeetbhale.github.io/Portfolio/)
+👉 [Live Demo]()
 
 ## 📸 Screenshot
 
-![Portfolio Website](https://github.com/abhijeetBhale/Portfolio/blob/4153aac777d27ad5cc2aaa4ded9a3b347b8c8d9e/assets/portfolio-ss.png)
+![Portfolio Website](https://imgur.com/a/hnTAsG6)
 
 ---
 
@@ -166,7 +166,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Email**: abhijeetbhale7@gmail.com
-- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/abhijeetbhale7)
-- **GitHub**: [@abhijeetBhale](https://github.com/abhijeetBhale)
-- **Instagram**: [@isocyanideisgood](https://www.instagram.com/isocyanideisgood)
+- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/brian-melly-14b63a39a/)
+- **GitHub**: [@abhijeetBhale](https://github.com/Brianmelly01)
+- **Instagram**: [@isocyanideisgood](https://www.instagram.com/mellygram254?igsh=MTA2MXQ0bnVjZnJuOA==)
 
