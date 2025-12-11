@@ -80,7 +80,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 ## 📸 Screenshot
 
-![Portfolio Website](https://imgur.com/a/hnTAsG6)
+![Portfolio Website](https://github.com/Brianmelly01/Portfolio/commit/c1f512273af9d01e8e21e94eb30cc7e875610081#diff-dd6b6fe7312870c6ce77b2ef7f572bf651c33adcf5e0304ac8d7cf7ca7487142)
 
 ---
 
