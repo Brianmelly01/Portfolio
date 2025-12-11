@@ -165,8 +165,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email**: abhijeetbhale7@gmail.com
-- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/brian-melly-14b63a39a/)
-- **GitHub**: [@abhijeetBhale](https://github.com/Brianmelly01)
-- **Instagram**: [@isocyanideisgood](https://www.instagram.com/mellygram254?igsh=MTA2MXQ0bnVjZnJuOA==)
+- **Email**: brianmelly008@gmail.com
+- **LinkedIn**: [Brian Melly](https://www.linkedin.com/in/brian-melly-14b63a39a/)
+- **GitHub**: [@Brianmelly001](https://github.com/Brianmelly01)
+- **Instagram**: [@mellygram254](https://www.instagram.com/mellygram254?igsh=MTA2MXQ0bnVjZnJuOA==)
 
